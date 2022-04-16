@@ -1,5 +1,5 @@
-C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)/CMakeFiles/edit_cache.dir
-C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)/CMakeFiles/rebuild_cache.dir
-C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)/SPL/CMakeFiles/SPL.dir
-C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)/SPL/CMakeFiles/edit_cache.dir
-C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)/SPL/CMakeFiles/rebuild_cache.dir
+C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)/CMakeFiles/edit_cache.dir
+C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)/CMakeFiles/rebuild_cache.dir
+C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)/SPL/CMakeFiles/SPL.dir
+C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)/SPL/CMakeFiles/edit_cache.dir
+C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)/SPL/CMakeFiles/rebuild_cache.dir

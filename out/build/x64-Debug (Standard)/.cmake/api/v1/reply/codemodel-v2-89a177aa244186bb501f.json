@@ -63,8 +63,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)",
-		"source" : "C:/Users/gregor/source/repos/SPL"
+		"build" : "C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)",
+		"source" : "C:/Users/gregor/source/repos/schlosserg/SPLCUDA"
 	},
 	"version" : 
 	{

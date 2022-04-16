@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)"
+			"value" : "c:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -511,7 +511,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/gregor/source/repos/SPL"
+			"value" : "C:/Users/gregor/source/repos/schlosserg/SPLCUDA"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -523,7 +523,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/gregor/source/repos/SPL/out/install/x64-Debug (Standard)"
+			"value" : "C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/install/x64-Debug (Standard)"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -1047,7 +1047,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)"
+			"value" : "C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)"
 		},
 		{
 			"name" : "SPL_SOURCE_DIR",
@@ -1059,7 +1059,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/gregor/source/repos/SPL"
+			"value" : "C:/Users/gregor/source/repos/schlosserg/SPLCUDA"
 		}
 	],
 	"kind" : "cache",

@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/gregor/source/repos/SPL
+# Install script for directory: C:/Users/gregor/source/repos/schlosserg/SPLCUDA
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/gregor/source/repos/SPL/out/install/x64-Debug (Standard)")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/install/x64-Debug (Standard)")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)/SPL/cmake_install.cmake")
+  include("C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)/SPL/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/gregor/source/repos/SPL/out/build/x64-Debug (Standard)/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/build/x64-Debug (Standard)/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
