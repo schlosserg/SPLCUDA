@@ -3,10 +3,12 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("SPL")
+PROJECT("SPLCUDA" LANGUAGES CUDA CXX)
+
 INCLUDE_DIRECTORIES(
-	include/  
+	include/ 
 )
 
 # Schließen Sie Unterprojekte ein.
-add_subdirectory ("SPL")
+add_subdirectory ("doc")
+add_subdirectory ("tests")
