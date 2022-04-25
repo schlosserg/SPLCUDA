@@ -4,6 +4,6 @@
 cmake_minimum_required (VERSION 3.8)
 
 # Fügen Sie der ausführbaren Datei dieses Projekts eine Quelle hinzu.
-add_executable (SPL "SPL.cpp" "SPL.h")
+add_executable (SPL "include/SPL.h" "tests/vector/SPL.cpp")
 
 # TODO: Fügen Sie bei Bedarf Tests hinzu, und installieren Sie Ziele.

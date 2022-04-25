@@ -1,7 +1,7 @@
 ﻿// SPL.cpp: Definiert den Einstiegspunkt für die Anwendung.
 //
 
-#include "SPL.h"
+#include <include/SPL.h>
 
 using namespace std;
 

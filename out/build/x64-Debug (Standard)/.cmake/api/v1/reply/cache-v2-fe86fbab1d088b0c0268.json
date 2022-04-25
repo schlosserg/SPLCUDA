@@ -523,7 +523,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/gregor/source/repos/schlosserg/SPLCUDA/out/install/x64-Debug (Standard)"
+			"value" : "C:/Users/gregor/Source/Repos/schlosserg/SPLCUDA/out/install/x64-Debug (Standard)"
 		},
 		{
 			"name" : "CMAKE_LINKER",
